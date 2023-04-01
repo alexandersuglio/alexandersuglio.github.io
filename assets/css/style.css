@@ -408,7 +408,7 @@ section {
 .about > .container
 {
   position: relative;
-  top:  20%;
+  top:  10%;
 
 }
 
@@ -549,8 +549,8 @@ section {
 .awards > .container
 {
   position: relative;
-  top:  20%;
-
+/*   top:  20%;
+ */
 }
 /*--------------------------------------------------------------
 # Resume
