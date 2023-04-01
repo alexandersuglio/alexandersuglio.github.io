@@ -259,6 +259,8 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
+/*  background: url("../img/colorful-tropical-pattern-background-illustration.jpg") top center;
+*/  
   background:  white;
   background-size: cover;
 }
@@ -398,7 +400,7 @@ section {
 
 .about {
   /**background-color: orange;**/
-  height: 100vh;
+  height: 200vh;
 
 }
 
@@ -414,7 +416,7 @@ section {
 .education {
 
   /**background-color: orange;**/
- height: 150vh;
+ height: 200vh;
 
 }
 
@@ -517,7 +519,7 @@ section {
 
 .skills {
  /* background-color: orange;*/
-  height: 200vh;
+  height: 250vh;
 }
 
 .skills > .container
@@ -541,7 +543,7 @@ section {
 
 .awards
 {
-  height: 150vh;
+  height: 200vh;
 }
 
 .awards > .container
