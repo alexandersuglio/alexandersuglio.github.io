@@ -3,7 +3,7 @@ Hello! This is a personal site I've created to highlight a few of my skills and 
 
 This site will be an ongoing project that I will continuously update as my career progresses. 
 
-Site is accessible at https://alexandersuglio.github.io/personal-website/
+Site is accessible at https://alexandersuglio.github.io
 
 This site is built off of a template I obtained from https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
 
