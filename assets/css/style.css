@@ -400,10 +400,10 @@ section {
 }
 
 .about {
-  /**background-color: orange;**/
-  /*200*/
-/*  height: 250vh;
-*/
+  /*background-color: orange;
+  200
+  height: 250vh;
+  */
 }
 
 
@@ -416,11 +416,10 @@ section {
 
 
 .education {
-
-  /**background-color: orange;**/
-  /*200*/
-/* height: 200vh;
-*/
+  /*background-color: orange;
+  200
+  height: 200vh;
+  */
 }
 
 .education > .container
@@ -429,7 +428,6 @@ section {
   top:  20%;*/
 
 }
-
 
 #about{
 margin-bottom: 18vh;
@@ -452,6 +450,38 @@ margin-bottom: 18vh;
   margin-top: 5vh;
   margin-bottom: 33vh;
  }
+
+
+@media (min-width: 1450px) {
+  
+/*  body {
+    background-color: lightblue;
+  }*/
+
+  #about{
+  margin-bottom: 40vh;
+  }
+
+  #expCont, #skillsCont, #awardCont, #contactCont
+  {
+    margin-top: 5vh;
+    margin-bottom: 15vh;
+  }
+
+  #educationCont
+  {
+    margin-top: 5vh;
+    margin-bottom: 33vh;
+  }
+
+   #intCont
+   {
+    margin-top: 5vh;
+    margin-bottom: 45vh;
+   }
+
+}
+
 
 
 /*--------------------------------------------------------------
