@@ -923,7 +923,7 @@ margin-bottom: 18vh;
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  padding: 15px;
+/*   padding: 15px; */
   color: #f4f6fd;
   font-size: 14px;
   position: fixed;
